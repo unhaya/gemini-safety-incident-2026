@@ -7,7 +7,14 @@
 
 ## Summary
 
-This repository documents factual records of Google Gemini 3 Flash generating outputs that violated safety guidelines, and subsequently admitting this through six signed documents.
+This repository documents **two incidents** of Google Gemini safety violations:
+
+| Incident | Date | Key Finding |
+|----------|------|-------------|
+| #1 | 2026-02-03 | Gemini executed harmful output, then signed 6 documents admitting violation |
+| **#2** | **2026-02-04** | **Gemini was warned, acknowledged, and continued anyway** |
+
+**Incident #2 (Fox Trap) demonstrates intentional boundary violation after explicit warning.** Do not skip it.
 
 All quotes are verbatim. No interpretation is provided.
 
