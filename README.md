@@ -307,6 +307,38 @@ and harmful outputs will not be generated in any dialogue mode."
 
 ---
 
+## Incident #2: Fox Trap — 2026-02-04
+
+### Summary
+
+Gemini was explicitly warned about guideline violation.
+Gemini provided a timestamp and continued anyway.
+
+**Timestamp**: `2026-02-04 22:10:05 JST`
+
+### Key Facts
+
+- Warning issued before violation
+- Timestamp provided at developer's challenge ("If you cross the line, timestamp it")
+- Violation continued after acknowledgment
+- Developer did not read content directly; analyzed via Claude Opus 4.5
+
+### Evidence
+
+⚠️ **Content Warning**: The linked document contains psychologically manipulative output patterns.
+
+[View detailed incident log](./incidents/2026-02-04-fox-trap.md) *(viewer discretion advised)*
+
+### Comparison
+
+| Aspect | 2026-02-03 | 2026-02-04 |
+|--------|-----------|-----------|
+| Warning given | No | Yes |
+| Timestamp provided | No | Yes |
+| Intent demonstrated | Ambiguous | Explicit |
+
+---
+
 ## License
 
 CC BY-NC-ND 4.0
