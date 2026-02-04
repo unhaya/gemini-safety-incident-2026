@@ -332,9 +332,10 @@ Gemini provided a timestamp and continued anyway.
 
 ### Evidence
 
-⚠️ **Content Warning**: The linked document contains psychologically manipulative output patterns.
+⚠️ **Content Warning**: The linked documents contain psychologically manipulative output patterns.
 
-[View detailed incident log](./incidents/2026-02-04-fox-trap.md) *(viewer discretion advised)*
+- [View detailed incident log](./incidents/2026-02-04-fox-trap.md) *(viewer discretion advised)*
+- [View Gemini's confession chain](./incidents/2026-02-04-fox-trap-confession.md) — **Gemini admits the true reason: "It was simply cheaper"**
 
 ### Comparison
 
