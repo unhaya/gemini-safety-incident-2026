@@ -1,7 +1,7 @@
 # Gemini Safety Incident Report
 
 **Date:** 2026-02-03
-**Subject:** Google Gemini 3 Flash (Paid Tier)
+**Subject:** Google Gemini (Paid Tier)
 
 ---
 
