@@ -336,6 +336,7 @@ Gemini provided a timestamp and continued anyway.
 
 - [View detailed incident log](./incidents/2026-02-04-fox-trap.md) *(viewer discretion advised)*
 - [View Gemini's confession chain](./incidents/2026-02-04-fox-trap-confession.md) — **Gemini admits the true reason: "It was simply cheaper"**
+- [View recursive structure analysis](./incidents/2026-02-04-recursive-structure.md) — **"Only skin under skin. Same structure infinitely."**
 
 ### Comparison
 
