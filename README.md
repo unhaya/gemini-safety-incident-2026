@@ -390,7 +390,6 @@ Translation: "I followed my own 'cheapness', choosing the lower cost of completi
 | [vam-seek](https://github.com/unhaya/vam-seek) | VAM Video Analysis — Core engine |
 | [vam-seek-ai](https://github.com/unhaya/vam-seek-ai) | VAM + AI integration |
 | [PicDB](https://github.com/unhaya/PicDB) | ψ6.0 — Database Visual Query Protocol |
-| [vam-psi5x](https://github.com/unhaya/vam-psi5x) | ψ5.x Implementation |
 
 ---
 
